@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: AD18U_Popup_Banner
-! Version: 1.5
-! Last modified: 23/01/2022
+! Version: 1.5.1
+! Last modified: 25/01/2022
 ! ========================== General Element Hiding ===========================
 ###ad_float_right
 ###bar_float
