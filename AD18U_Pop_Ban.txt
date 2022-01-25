@@ -210,6 +210,7 @@ youtube.com##.paused-mode.ad-interrupting.ad-showing.ad-created.ytp-iv-drawer-en
 www.youtube.com##.paused-mode.ad-interrupting.ad-showing.ad-created.ytp-autonav-endscreen-cancelled-state.ytp-large-width-mode.ytp-exp-ppp-update.ytp-larger-tap-buttons.ytp-exp-bottom-control-flexbox.ytp-transparent.html5-video-player
 zippyshare.com###qrCode ~ a[href$="1131386.html"]
 zippyshare.com##.center_ad
+zingnews.vn###site-header
 ! ============================== General adverts ==============================
 -ads/
 -banner/$image
