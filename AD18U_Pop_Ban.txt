@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AD18U_Popup_Banner
-! Version: 1.3
+! Version: 1.4
 ! Last modified: 23/01/2022
 ! ========================== General Element Hiding ===========================
 ###ad_float_right
@@ -206,6 +206,7 @@ youtube.com###video-masthead
 youtube.com###watch7-sidebar-ads
 youtube.com##.pyv-afc-ads-container
 youtube.com##.ytp-ce-element.ytp-ce-element-show
+youtube.com##.paused-mode.ad-interrupting.ad-showing.ad-created.ytp-iv-drawer-enabled.ytp-autonav-endscreen-cancelled-state.ytp-large-width-mode.ytp-exp-ppp-update.ytp-larger-tap-buttons.ytp-exp-bottom-control-flexbox.ytp-transparent.html5-video-player
 zippyshare.com###qrCode ~ a[href$="1131386.html"]
 zippyshare.com##.center_ad
 ! ============================== General adverts ==============================
