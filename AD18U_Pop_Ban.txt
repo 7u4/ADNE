@@ -1138,6 +1138,7 @@ yts/swfbin/player-vfl*/ad*.swf
 @@||vietteltelecom.vn/js/tracking/interaction.js$script
 @@||vnecdn.net/*/ads.js
 @@||vtvapi.channelvn.net^
+@@||vtvgiaitri.vn$generichide
 @@||weather.channelvn.net^
 @@||www.ghacks.net/wp-content/plugins/bwp-minify/*
 @@||xemvtv.net/jwplayer7/vast.js
