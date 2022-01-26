@@ -17,6 +17,7 @@
 ##.above-player
 ##.ad
 ##.adsbygoogle
+##.ads-header
 ##.float-ads-left
 ##.float-ads-right
 ##.float-ck
