@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: AD18U_Popup_Banner
-! Version: 1.5.2
-! Last modified: 23/01/2022
+! Version: 1.5.2.1
+! Last modified: 26/01/2022
 ! ========================== General Element Hiding ===========================
 ###ad_float_right
 ###bar_float
@@ -748,7 +748,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||horsered.com^
 ||hphim.tv/*.gif
 ||hphim.tv/*.xml
-||i.imgur.com/*.gif$domain=90p.live|phut90.online|phut91.online|binhluanvidamme.online|bongdatv.net|bongngozz.com|macintosh.vn|phimgi.tv|phimmedia.tv|phimnhe.net|topbongda.com
+||i.imgur.com/*.gif$domain=90p.live|phut90.online|phut91.online|binhluanvidamme.online|bongdatv.net|bongngozz.com|macintosh.vn|phimgi.tv|phimmedia.tv|phimnhe.net|topbongda.com|ephimmoi.net
 ||i2.cdn8.net/*.gif$domain=gametv.vn
 ||igo.5giay.vn/changebanner/mBanner
 ||imasdk.googleapis.com^$domain=xem.vn
@@ -865,6 +865,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||phimmoi.net/*/vast.
 ||phimmoi.net/js/vtlai/movie/adoverlay/*
 ||phimmoi.net/js/vtlai/movie/public/pad.js?*
+||phimmoichill.net/media/new/728x90.gif
 ||phimnhanh.net/*.gif
 ||phongcomputer.com^$third-party
 ||photobucket.com/*sonyvietmedia/
