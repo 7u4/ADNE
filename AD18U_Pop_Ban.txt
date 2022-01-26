@@ -629,6 +629,8 @@ qthang.net#?#.HTML:-abp-has(.adsbygoogle)
 quantrimang.com###adrighttop
 quantrimang.com###adsviewbottom
 quantrimang.com##.sticky > .adsbygoogle
+quantrimang.com###adsbgleft
+quantrimang.com##.adsviewed.adsbg
 rakhoi.tv,rakhoi1.tv,cakhiaz.tv,cakhia10.tv,cakhia10.live,cakhiaz.live##.adHTML2
 rakhoi.tv,rakhoi1.tv,cakhiaz.tv,cakhia10.tv,cakhia10.live,cakhiaz.live##.container-banner
 rakhoi.tv,rakhoi1.tv,cakhiaz.tv,cakhia10.tv,cakhia10.live,cakhiaz.live##.datCuocBTN
