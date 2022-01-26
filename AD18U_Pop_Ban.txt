@@ -64,6 +64,7 @@ baodatviet.vn###ballon
 baodatviet.vn###left_col center
 bdslamdong.vn##.widget-ad-300
 bilutv.org###fanback
+biluu.tv##.ads-header
 blackboxrepack.com##.down
 blogtruyen.vn###mbtfloat
 blogtruyen.vn###qcInnerContentList
