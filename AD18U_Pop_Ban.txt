@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AD18U_Popup_Banner
-! Version: 1.5.2.2
+! Version: 1.5.2.3
 ! Last modified: 26/01/2022
 ! ========================== General Element Hiding ===========================
 ###ad_float_right
@@ -187,6 +187,9 @@ tinhte.vn##.adWidget
 tivi24h.com###bloggernotificationWrap
 tivi24h.com###fbbaiviet
 tivi24h.com###HTML9
+tienichmaytinh.net##.chp_ads_blocker_detector-message
+tienichmaytinh.net##.chp_ads_blocker_detector-content
+tienichmaytinh.net##.chp_ads_blocker_detector-show.chp_ads_blocker_detector
 topbongda.com##.tkb
 topbongda.com##[class*="fadeIn"]
 torviet.com###leftBanner1Ky
