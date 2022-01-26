@@ -82,6 +82,10 @@ bongdatructuyen.us###left_sticky_ads
 bongdatructuyen.us##[id^="banner"]
 cadviet.com###float_panel
 chiasenhac.vn##body>a:first-child>div
+chiasenhac.vn###csnplayerads
+chiasenhac.vn###poster_new
+chiasenhac.vn##.detail_lyric_1 div[style="text-align: right;"]
+chiasenhac.vn##a[href*="clicktrackingv2.userreport.com"]
 choimobile.vn##.quangcao_post
 chovinh.com###messageList > .message:first-child > .messageInfo + div
 chovinh.com##.samBannerUnit
