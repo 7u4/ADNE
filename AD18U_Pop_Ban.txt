@@ -92,6 +92,10 @@ deviantart.com##.partial-ad
 diadiem.com###divPopAdsPOI
 diadiem.com##.div_box_adv
 eva.vn##[id^="ADS_"]
+ephimmoi.net##div#adtop-watch.watch-banner-2.ad-container:nth-of-type(10)
+ephimmoi.net##[href="https://88jun.net/"] > .lazyloaded
+ephimmoi.net##div#adtop-watch.watch-banner-2.ad-container:nth-of-type(5)
+ephimmoi.net##[href="https://88jun.net/"]
 expertcircuits.blogspot.com###fanback
 fbtag.net##.Flagrow-Ads-fake-poststream-item
 fimfast.com##BODY > .ff-banner
