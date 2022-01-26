@@ -254,6 +254,7 @@ dabong5.com##.under-h1
 daklak24h.com.vn##.features-r
 dangcaphd.com##.block-banner
 dantri.com.vn##.admicro
+dantri.com.vn###bannerMasthead
 dantri.com.vn##.col--highlight-ads
 dantri.com.vn##.footer-banner__wrapper
 dantri.com.vn##secion.ng-isolate-scope
