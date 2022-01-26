@@ -262,6 +262,7 @@ dantri.com.vn,phuongtrinhhoahoc.com##.top-banner
 dantri.com.vn##.container.body > .flex-jcc.mt-30.ads
 dantri.com.vn###ezoic-pub-ad-placeholder-107
 dantri.com.vn###ezoic-pub-ad-placeholder-105
+dantri.com.vn###ezoic-pub-ad-placeholder-106
 danviet.vn##.sidebar > div[style]
 danviet.vn##.banner-LR
 designs.vn##.qc-right2
