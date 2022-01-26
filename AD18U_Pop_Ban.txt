@@ -628,6 +628,7 @@ qthang.net##.elementor-widget-container > .widget_custom_html
 qthang.net#?#.HTML:-abp-has(.adsbygoogle)
 quantrimang.com###adrighttop
 quantrimang.com###adsviewbottom
+quantrimang.com##.sticky > .adsbygoogle
 rakhoi.tv,rakhoi1.tv,cakhiaz.tv,cakhia10.tv,cakhia10.live,cakhiaz.live##.adHTML2
 rakhoi.tv,rakhoi1.tv,cakhiaz.tv,cakhia10.tv,cakhia10.live,cakhiaz.live##.container-banner
 rakhoi.tv,rakhoi1.tv,cakhiaz.tv,cakhia10.tv,cakhia10.live,cakhiaz.live##.datCuocBTN
