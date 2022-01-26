@@ -90,6 +90,7 @@ answers.yahoo.com##[id$="textads"]
 a3manga.com##.single-video
 a3mga.com##.adpia-header
 ahaphimz.com##.topplayer.quangcao_mobile
+anhdv.com###felyoipd-5888-346777856-place
 anime47.com###qc_clgt
 anime47.com,doctruyen3q.com##.advertisement
 anime47.com,phimno1.xyz###ads_location
