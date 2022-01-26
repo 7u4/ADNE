@@ -1807,7 +1807,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||tvhays.org/guide/*
 ||tvhays.org/playergk/*/vast.js
 ||tynt.com^
-||uniad.
 ||unibet.com^$third-party
 ||upanh.ssc.vn^$domain=cvt.vn
 ||upfile.vn/view/default/image/index-*.gif|
