@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: AD18U_Popup_Banner
-! Version: 1.5.1.1
-! Last modified: 25/01/2022
+! Version: 1.5.1.2
+! Last modified: 26/01/2022
 ! ========================== General Element Hiding ===========================
 ###ad_float_right
 ###bar_float
@@ -198,6 +198,7 @@ voz.party##.Flagrow-Ads-fake-poststream-item
 voz.vn##.v-element > .v-responsive > .vm-placement
 voz.vn##body[data-template="forum_view"] .p-body-sidebar
 voz.vn##body[data-template="thread_view"] .p-body-sidebar
+vuighe.net##.banner-300x250
 xemgame.com##.abs-bg
 xemphim73.com##.movie-info-box + A
 xemphimgi.net###pc-catfix
@@ -292,6 +293,7 @@ zippyshare.com##.center_ad
 /rhpop_
 /script/suurl.php?
 /smartbanner/*
+/side-ad
 /thvpopup.js
 /traffic.php
 /viettyping.js
