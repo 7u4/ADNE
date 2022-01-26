@@ -1,5 +1,5 @@
 # Bộ chặn quảng cáo website cho ublock origin.
-  ## Cài đặt Extension uBlock Origin ứng với trình duyệt
+  ### Cài đặt Extension uBlock Origin ứng với trình duyệt
    <html> 
     <p align="center"> 
       <a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/">Chrome </a> |
