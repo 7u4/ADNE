@@ -259,6 +259,7 @@ dantri.com.vn##.col--highlight-ads
 dantri.com.vn##.footer-banner__wrapper
 dantri.com.vn##secion.ng-isolate-scope
 dantri.com.vn,phuongtrinhhoahoc.com##.top-banner
+dantri.com.vn###ezoic-pub-ad-placeholder-107
 danviet.vn##.sidebar > div[style]
 danviet.vn##.banner-LR
 designs.vn##.qc-right2
