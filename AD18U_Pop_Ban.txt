@@ -194,6 +194,7 @@ tivi24h.com###HTML9
 tienichmaytinh.net##.chp_ads_blocker_detector-message
 tienichmaytinh.net##.chp_ads_blocker_detector-content
 tienichmaytinh.net##.chp_ads_blocker_detector-show.chp_ads_blocker_detector
+tienichmaytinh.net##.active.chp_ads_blocker-overlay
 topbongda.com##.tkb
 topbongda.com##[class*="fadeIn"]
 torviet.com###leftBanner1Ky
