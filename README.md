@@ -11,8 +11,8 @@
  #### B2: Lấy link raw từ github và dán vào uBlock Origin
   <html> 
    <p align="center"> 
-      <a href="https://raw.githubusercontent.com/hungphambkc/ADNE/main/AD18U_Host.txt">Host </a> |
-      <a href="https://raw.githubusercontent.com/hungphambkc/ADNE/main/AD18U_Pop_Ban.txt">Popup & Banner </a> 
+      <a href="https://raw.githubusercontent.com/hungphambkc/ADNE/main/ADNE_Host.txt">Host </a> |
+      <a href="https://raw.githubusercontent.com/hungphambkc/ADNE/main/ADNE_Pop_Ban.txt">Popup & Banner </a> 
    </p>
   </html>
   
