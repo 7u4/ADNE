@@ -1,7 +1,0 @@
-name: Cache multiple paths
-uses: actions/cache@v2.1.7
-id: cache
-with:
-  path: | 
-    ~/cache
-! ~/cache/exclude
