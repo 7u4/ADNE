@@ -93,6 +93,8 @@ ahaphimz.com##.topplayer.quangcao_mobile
 anh-dv.com###felyoipd-5888-346777856-place
 anh-dv.com###felyoipd-5897-796002079-place
 anh-dv.com###felyoipd-5888-1990108855-place
+anh-dv.com###felyoipd-3 > .no-bg-box-model.felyoipd-clearfix.felyoipd-column-1.felyoipd-align-center.felyoipd
+anh-dv.com##.widget_felyoipd.widget.primary-sidebar-widget.w-nt.h-ni
 anh-dv.com##.col-xs-8.sidebar-col
 anime47.com###qc_clgt
 anime47.com,doctruyen3q.com##.advertisement
