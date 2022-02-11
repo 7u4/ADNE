@@ -788,11 +788,11 @@ tivi4k.com##[id^="Ads_"]
 tivi24h.com###bloggernotificationWrap
 tivi24h.com###fbbaiviet
 tivi24h.com###HTML9
-tienichmaytinh.net##.chp_ads_blocker_detector-message
-tienichmaytinh.net##.chp_ads_blocker_detector-content
-tienichmaytinh.net##.chp_ads_blocker_detector-show.chp_ads_blocker_detector
+tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_detector-message
+tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_detector-content
+tienichmaytinh.net,icongnghe.com##.chp_branding
+tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_detector-show.chp_ads_blocker_detector
 tienichmaytinh.net##.active.chp_ads_blocker-overlay
-tienichmaytinh.net##.chp_branding
 tienichmaytinh.net##.main-sidebar.sidebar > div.widget_custom_html.widget.widget_text > .custom-html-widget.textwidget
 tienichmaytinh.net##div.widget_custom_html.widget.widget_text
 tienichmaytinh.net##div.widget_media_image.widget
