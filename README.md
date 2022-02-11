@@ -1,5 +1,5 @@
-# Bộ chặn quảng cáo website cho ublock origin.
-  #### B1: Cài đặt Extension uBlock Origin ứng với trình duyệt
+# Ads Block for uBlock Origin in Vietnam.
+  #### B1: Install Extension uBlock Origin
    <html> 
     <p align="center"> 
       <a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/">Chrome </a> |
@@ -8,7 +8,7 @@
     </p>
   </html>
   
- #### B2: Lấy link raw từ github và dán vào uBlock Origin
+ #### B2: Copy link raw Github and paste to uBlock Origin Extension.
   <html> 
    <p align="center"> 
       <a href="https://raw.githubusercontent.com/hungphambkc/ADNE/main/ADNE_Host.txt">Host </a> |
