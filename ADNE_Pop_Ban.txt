@@ -1136,6 +1136,7 @@ yts/swfbin/player-vfl*/ad*.swf
 @@||heaveniphone.com/images/quangcao/heaveniphone.jpg
 @@||hphim.tv/styles/*.gif
 @@||hub.blueserving.com/?skip=
+@@||inet.vn/*
 @@||nv-ad.24hstatic.com/*.jpg
 @@||phimaz.net/ads.php
 @@||rutrk.org/logo/*
