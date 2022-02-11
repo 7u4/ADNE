@@ -505,6 +505,7 @@ mangak.info##.preload-mobi
 mangak.info,mi2manga.mobi##.preload-pc
 mangaxy.com###boxes
 mangaxy.com,truyentranh86.com##.tt8quangcao
+matbao.com##.darkBG
 mediafire.com##.dlPromo1Content.dlPromoContent
 mediafire.com##.download_banner_container
 medoctruyentranh.net##.ads_sticky_top
