@@ -154,19 +154,6 @@ baominh.tech##.widget_custom_html.widget.extendedwopts-mobile.extendedwopts-tabl
 baomknh.tech##.td_block_template_1.tdi_69_b5b.td-g-rec-id-footer_top.td-g-rec
 baominh.tech##.td-container > div.td-pb-row > .td-pb-span12
 baominh.tech##.code-block-1.code-block
-baominh.tech##.tdi_11
-baominh.tech##.tdi_18
-baominh.tech##.tdi_21
-baominh.tech##.tdi_24
-baominh.tech##.tdi_28
-baominh.tech##.tdi_31
-baominh.tech##.tdi_34
-baominh.tech##.tdi_44
-baominh.tech##.tdi_47
-baominh.tech##.tdi_50
-baominh.tech##.tdi_53
-baominh.tech##.tdi_56
-baominh.tech##.tdi_59
 baominh.tech##.td-fix-index.td_block_template_1.td-pb-border-top.tdi_42_d56.td_block_title.td_block_wrap
 baominh.tech##ul:nth-of-type(2)
 blog.abit.vn##.button-dangkyngay
