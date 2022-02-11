@@ -793,6 +793,19 @@ tienichmaytinh.net##.chp_ads_blocker_detector-content
 tienichmaytinh.net##.chp_ads_blocker_detector-show.chp_ads_blocker_detector
 tienichmaytinh.net##.active.chp_ads_blocker-overlay
 tienichmaytinh.net##.chp_branding
+tienichmaytinh.net##.main-sidebar.sidebar > div.widget_custom_html.widget.widget_text > .custom-html-widget.textwidget
+tienichmaytinh.net##div.widget_custom_html.widget.widget_text:nth-of-type(8)
+tienichmaytinh.net##div.widget_custom_html.widget.widget_text:nth-of-type(7)
+tienichmaytinh.net##div.widget_media_image.widget:nth-of-type(6)
+tienichmaytinh.net##div.widget_media_image.widget:nth-of-type(5)
+tienichmaytinh.net##div.one_fourth > .widget_custom_html.widget.widget_text > .custom-html-widget.textwidget
+tinhocdongthap.com###text-7
+tinhocdongthap.com###text-8
+tinhocdongthap.com###custom_html-2
+tinhocdongthap.com###custom_html-6
+tinhocdongthap.com###custom_html-7
+tinhocdongthap.com###custom_html-11
+tinhocdongthap.com##div.code-block-3.code-block
 topcode.vn###floating_banner_left
 topcode.vn###floating_banner_right
 topthuthuat.com##.widget.ai_widget
