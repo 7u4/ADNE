@@ -1759,6 +1759,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||imasdk.googleapis.com^$domain=xem.vn
 ||img.ketqua.net/images/*.gif|
 ||img.xemphim73.com/img/*.gif|
+||imad24.com/www/vast/zone/*
 ||infogame.vn/*swf
 ||infolinks.com^
 ||innity.$third-party
@@ -2054,8 +2055,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vnreview.vn/play-clip/*
 ||vnwebgame.com^$popup
 ||vuighe.net/assest/banner/*
-||sponsor.imacdn.com/vg/*.mp4
-||ff.imacdn.com/vg/*.mp4
+||sponsor.imacdn.com/*/*.mp4
+||ff.imacdn.com/*/*.mp4
 ||vws.vegacdn.vn/QCBinhluan/*
 ||waframedia*.com^$third-party
 ||webdien.com/d/ad/*
