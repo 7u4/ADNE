@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: ADNE_Popup_Banner
-! Version: 1.5.3.4
-! Last modified: 11/02/2022
+! Version: 1.5.3.5
+! Last modified: 13/02/2022
 ! ========================== General Element Hiding ===========================
 ###ad_float_right
 ###bar_float
@@ -1686,9 +1686,9 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fcine.net/uploads/*_eABD_*$script
 ||fcounter.info^
 ||feedjit.com^
-||fimfast.com/banner/*
-||fimfast.com/sponsor/*$image
-||fimfast.com/vast.xml
+||phim1080z.com/banner/*
+||phim1080z.com/sponsor/*$image
+||phim1080z.com/vast.xml
 ||financepro.live^$third-party
 ||fmpub.net^
 ||fn1s.info^$third-party
@@ -1870,7 +1870,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||phimmoi.net/*/vast.
 ||phimmoi.net/js/vtlai/movie/adoverlay/*
 ||phimmoi.net/js/vtlai/movie/public/pad.js?*
-||phimmoichill.net/media/new/728x90.gif
+||phimmoichill.net/media/new/*.gif
 ||phimnhanh.net/*.gif
 ||phongcomputer.com^$third-party
 ||photobucket.com/*sonyvietmedia/
