@@ -1686,6 +1686,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fcine.net/uploads/*_eABD_*$script
 ||fcounter.info^
 ||feedjit.com^
+||ff.imacdn.com/img/*-header.jpg
 ||phim1080z.com/banner/*
 ||phim1080z.com/sponsor/*$image
 ||phim1080z.com/vast.xml
