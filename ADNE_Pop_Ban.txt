@@ -1311,6 +1311,8 @@ yts/swfbin/player-vfl*/ad*.swf
 @@||adserver.yahoo.com^$xmlhttprequest,domain=yahoo.com
 @@||adsnative.com/static/js/render.v2.js$domain=streamable.com
 @@||alicdn.com/retcode/log/*
+@@||anime47.com/ads/player/v/8.8.2/jwplayer.js
+@@||anime47.com/ads/player/v/8.8.2/jwplayer.core.controls.html5.js
 @@||api.adtimaserver.vn/crossdomain.xml
 @@||bdpcdn.net/ads/live-score/*
 @@||bebi.com/bebi_v3.js$domain=anime47.com
