@@ -2054,8 +2054,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vnreview.vn/play-clip/*
 ||vnwebgame.com^$popup
 ||vuighe.net/assest/banner/*
-||sponsor.imacdn.com/vg/truyentranh.mp4
-||ff.imacdn.com/vg/choigame24.mp4
+||sponsor.imacdn.com/vg/*.mp4
+||ff.imacdn.com/vg/*.mp4
 ||vws.vegacdn.vn/QCBinhluan/*
 ||waframedia*.com^$third-party
 ||webdien.com/d/ad/*
