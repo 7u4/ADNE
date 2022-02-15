@@ -867,6 +867,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||imasdk.googleapis.com^$domain=xem.vn
 ||img.ketqua.net/images/*.gif|
 ||img.xemphim73.com/img/*.gif|
+||img.anime47.com/imgur/*.gif
 ||infogame.vn/*swf
 ||infolinks.com^
 ||innity.$third-party
