@@ -1,6 +1,7 @@
 ! Title: ADNE
 ! Version: 1.0
 ! Last modified: 15/02/2022
+! Homepage: github.com/hungphambkc/ADNE
 ! Author: Hung Pham
 ! ========================== General Element Hiding ===========================
 ###ad_float_right
@@ -349,7 +350,7 @@ getlink.tienichmaytinh.net##.banner-728x90.banner
 getlink.tienichmaytinh.net##.banner-468x60.banner
 getlink.tienichmaytinh.net##.banner-336x280.banner
 download.tienichmaytinh.net##.shadow.card > .adsbygoogle
-download.tienichmaytinh.net##.shadow.card > .adsbygoogle
+download.tienichmaytinh.net##.container > .adsbygoogle
 topbongda.com##.tkb
 topbongda.com##[class*="fadeIn"]
 torviet.com###leftBanner1Ky
