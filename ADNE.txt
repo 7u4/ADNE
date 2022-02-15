@@ -408,6 +408,7 @@ youtube.com###feed-pyv-container
 youtube.com###video-masthead
 youtube.com###watch7-sidebar-ads
 youtube.com##.pyv-afc-ads-container
+youtube.com##.ytp-ce-element
 youtube.com##.ytp-ce-element.ytp-ce-element-show
 zippyshare.com###qrCode ~ a[href$="1131386.html"]
 zippyshare.com##.center_ad
