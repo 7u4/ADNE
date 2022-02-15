@@ -309,6 +309,7 @@ phimmedia.tv##BODY > .nopadding[style="text-align:center"]
 phimnhanh.com##.qc-inner
 platinumcineplex.vn##[id^="fancybox"]
 play.tclup.com##.body > .modal
+timbus.vn##[src="http://quantri.timbus.vn/Media/Uploads/*.jpg"]
 quora.com##.cta_case_rules
 ragezone.com##.rzone_ads
 ragezone.com##.social-counter
