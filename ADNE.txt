@@ -1212,6 +1212,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||zjk24.com^$third-party
 ! ====================== Host by Kaspersky & Porn =====================
 ||03ed9035a0801f.com
+||arswabluchan.com
 ||allx.xxx
 ||admitad-connect.com
 ||advg.agency
