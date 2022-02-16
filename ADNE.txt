@@ -1213,6 +1213,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ! ====================== Host by Kaspersky & Porn =====================
 ||03ed9035a0801f.com
 ||arswabluchan.com
+||aegnfbgdtukajr.xyz
 ||allx.xxx
 ||admitad-connect.com
 ||advg.agency
@@ -1311,6 +1312,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||phimyy.com
 ||phimporn.net
 ||phymsex.com
+||propu.sh
+||serdaive.com
 ||seeptoag.net
 ||sex-hd.pro
 ||sextop1.biz
@@ -1343,6 +1346,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vlphimsex.tv
 ||vungtrom.tv
 ||vnxxx.net
+||voonogoa.net
 ||whazugho.com
 ||widow5blackfr.com
 ||webphimsex.net
