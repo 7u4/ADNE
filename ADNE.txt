@@ -1,6 +1,6 @@
 ! Title: ADNE
 ! Version: 1.0
-! Last modified: 15/02/2022
+! Last modified: 18/02/2022
 ! Homepage: github.com/hungphambkc/ADNE
 ! Author: Hung Pham
 ! ========================== General Element Hiding ===========================
@@ -449,6 +449,7 @@ zippyshare.com##.center_ad
 @@||hdo.tv/*/video?*
 @@||hphim.tv/styles/*.gif
 @@||hub.blueserving.com/?skip=
+@@||inet.vn/controllers/banner/banner_ctrl.js$script,1p
 @@||nv-ad.24hstatic.com/*.jpg
 @@||phimaz.net/ads.php
 @@||rutrk.org/logo/*
