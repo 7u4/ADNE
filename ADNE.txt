@@ -1053,7 +1053,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||rutracker.org^$subdocument,object
 ||rutrk.org^$third-party
 ||s*block.com^$third-party
-||*.imacdn.com/ff/*/*/*/*.jpg
 ||sbbanner.com^
 ||scorecardresearch.com^
 ||search.4shared.com^$popup
