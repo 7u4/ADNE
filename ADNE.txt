@@ -309,6 +309,8 @@ phimmedia.tv##.adv-300-right
 phimmedia.tv##BODY > .nopadding[style="text-align:center"]
 phimnhanh.com##.qc-inner
 phim1080z.com##.banner-0.banner-preload.ff-banner
+phim1080z.com##.banner-640x100.ff-banner
+phim1080z.com##.catfish.banner-0.balloon-left.banner-balloon.ff-banner
 platinumcineplex.vn##[id^="fancybox"]
 play.tclup.com##.body > .modal
 quora.com##.cta_case_rules
