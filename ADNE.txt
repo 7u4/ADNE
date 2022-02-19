@@ -1267,6 +1267,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||duoctu-hd.edu.vn/2021_*/
 ||dafabet.com
 ||dk8.games
+||dk8.com
 ||dk867.com
 ||dk802.com
 ||dk816.com
