@@ -803,7 +803,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fcounter.info^
 ||feedjit.com^
 ||ff.imacdn.com/*/*.mp4
-||ff.imacdn.com/img/*.jpg
+||ff.imacdn.com/img/vwin-*.jpg
+||ff.imacdn.com/img/*-header.jpg
 ||financepro.live^$third-party
 ||fmpub.net^
 ||fn1s.info^$third-party
