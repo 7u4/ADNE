@@ -1270,6 +1270,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||dk867.com
 ||dk802.com
 ||dk816.com
+||dk902.com
 ||danhsachnhacai.com
 ||deehalig.net
 ||ditnhe.xyz
