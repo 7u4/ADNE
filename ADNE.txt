@@ -308,6 +308,7 @@ phimgi.tv##.pc-catfix
 phimmedia.tv##.adv-300-right
 phimmedia.tv##BODY > .nopadding[style="text-align:center"]
 phimnhanh.com##.qc-inner
+phim1080z.com##.banner-0.banner-preload.ff-banner
 platinumcineplex.vn##[id^="fancybox"]
 play.tclup.com##.body > .modal
 quora.com##.cta_case_rules
@@ -800,8 +801,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fcounter.info^
 ||feedjit.com^
 ||ff.imacdn.com/*/*.mp4
-||ff.imacdn.com/img/vwin-*.jpg
-||ff.imacdn.com/img/*-header.jpg
+||ff.imacdn.com/img/*.jpg
 ||financepro.live^$third-party
 ||fmpub.net^
 ||fn1s.info^$third-party
@@ -1050,6 +1050,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||rutracker.org^$subdocument,object
 ||rutrk.org^$third-party
 ||s*block.com^$third-party
+||*.imacdn.com/ff/*/*/*/*.jpg
 ||sbbanner.com^
 ||scorecardresearch.com^
 ||search.4shared.com^$popup
